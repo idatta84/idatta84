@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @idatta
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning AWS & ReactJS
-- 📫 How to reach me idatta84@gmail.com
